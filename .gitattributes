@@ -1,0 +1,2 @@
+# GitHub rejects normal Git files larger than 100 MiB. Store model checkpoints in Git LFS.
+*.h5 filter=lfs diff=lfs merge=lfs -text

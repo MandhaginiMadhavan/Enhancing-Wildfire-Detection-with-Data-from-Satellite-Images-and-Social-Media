@@ -1,0 +1,38 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+secrets.toml
+*credentials*
+
+# Research source material and private data
+*.ipynb
+.ipynb_checkpoints/
+data/
+dataset/
+datasets/
+private_data/
+*.csv
+*.tsv
+
+# Logs and local artifacts
+*.log
+logs/
+.tmp/
+tmp/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
