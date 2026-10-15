@@ -1,6 +1,6 @@
 # Enhancing Wildfire Detection with Satellite Images and Social Media
 
-> **Live Streamlit demo:** [Launch the application](DEPLOYMENT_URL_PENDING)
+> **Live Streamlit demo:** [Launch the application](https://ybesmanvdzs8u3rpqyhknj.streamlit.app/)
 
 An experimental MSc Artificial Intelligence research prototype combining satellite-image classification, social-media text analysis, multimodal decision fusion, and federated-learning simulation for wildfire detection.
 
